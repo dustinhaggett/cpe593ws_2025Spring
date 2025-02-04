@@ -6,9 +6,9 @@ This project implements two algorithms using a custom linked list:
 2. **Swap Adjacent Characters** – Swaps every pair of adjacent characters using manual pointer management.
 
 ## Requirements
-- No built-in list/array functions (e.g., `.reverse()`, slicing).
-- Custom linked list implementation.
-- Manual pointer handling.
+- No built-in list/array functions
+- Custom linked list implementation
+- Manual pointer handling
 
 ## How to Run
 ### 1. Install Python 3.x
